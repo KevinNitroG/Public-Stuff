@@ -6,3 +6,5 @@
 Mọi thông tin đều được ghi trong Link cả nhé!
 
 Nơi đây chứa những file lưu trữ công khai của mình. Các bạn không mang đi post bài này kia nha.
+
+Mình biết cái chỗ này như bãi rác cần được sắp xếp nhưng mình lười quá :v
