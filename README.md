@@ -109,6 +109,8 @@ bom.to/beartv
 
 ### Youtube Vanced
 
+**Đây không phải ~~Youtube Revanced~~ nhé!**
+
 [Post gốc](https://m.facebook.com/groups/kodiviet/permalink/1349593462231109/)
 
 #### Release:
@@ -116,8 +118,6 @@ bom.to/beartv
 [17.27.35](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.35)
 
 [17.27.33](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.33)
-
-Đây không phải ~~Youtube Revanced~~ nhé!
 
 #### Thông tin về bản mod này:
 - Do anh **Lambass** người Việt mod theo mã nguồn mở của Vanced trước khi ngỏm
