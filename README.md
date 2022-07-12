@@ -126,3 +126,10 @@ bom.to/beartv
 
 3. Cài [PowerTube_5.0.3](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedAdditionalApps/PowerTube_5.0.3.apk) _(Không bắt buộc)_.
 > Cài khi bạn muốn dùng tính năng `Download video/audio` trong Youtube Vanced.
+
+### Nplayer Mod
+
+[Nplayer Mod](https://github.com/KevinNitroG/Public-Stuff/releases/tag/Nplayer_1.7.7.7_191219)
+
+Mọi thông tin có trong phần `Release`
+
