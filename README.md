@@ -89,9 +89,13 @@ gg.gg/coocaa
 rlink.wtf/vthanhtivi 
 bom.to/beartv
 ```
+---
 
+## Lambass:
 
+**Nhắc lại. Đây là nơi lưu trữ công khai, xin không chia sẻ, đặc biệt là của Lambass!**
 
+[Tổng hợp Android TV apps](https://drive.google.com/drive/u/0/folders/1PFdV02DrH0AjbszXD8Klo_23cC8Q3F2_)
 
 ### Youtube Vanced 17.27.33 thuộc sở hữu Lambass:
 [Xem tại đây](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced)
