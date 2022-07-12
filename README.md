@@ -1,5 +1,5 @@
 # FIRST
-*Đây là nơi lưu trữ công khai file, xin không đem đi share nhé!*
+**Đây là nơi lưu trữ công khai file, xin không đem đi share nhé!**
 
 ## Sofware
 
@@ -11,7 +11,15 @@
 
 [Adobe Crack của da.tuu.1810](https://docs.google.com/document/d/1eGe5MAWn-_YypoJSgopnyJGaCdzjKlqlirRCtySGsak/edit)
 
+[Active tools](https://github.com/KevinNitroG/Public-Stuff/tree/main/Active_Windows_Office_Tools)
+
 [Phần mềm backup bản quyền](https://docs.google.com/document/d/e/2PACX-1vS6qiila2Ty-AjMYyw3k7GJY-T2qiKqkL-NsUwQHU85Ckqy5iTRDVHNgy3Rbm4f_ORzNBorELALEPIk/pub)
+
+##Link tài liệu
+
+[Tổng hợp phim Conan Onedrive](https://t.ly/ymH1)
+
+[Tài liệu của Khánh](https://pitvn-my.sharepoint.com/:f:/g/personal/giakhanh_pitvn_onmicrosoft_com/Ei7jAqH3oDdCp7hLqSxPrm0BgGGANoKInO1n8_t6CNp0pQ?e=xPoqkC)
 
 
 
