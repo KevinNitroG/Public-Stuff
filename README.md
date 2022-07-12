@@ -91,7 +91,7 @@ bom.to/beartv
 ```
 ---
 
-## Lambass:
+## Lambass apps:
 
 **Nhắc lại. Đây là nơi lưu trữ công khai, xin không chia sẻ, đặc biệt là của Lambass!**
 
