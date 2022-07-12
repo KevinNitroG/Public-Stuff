@@ -1,4 +1,6 @@
-Tivimate cho AndroidTV: http://bom.to/tivimate
+# LIST IPTV VÀ CÁC APP ĐỂ XEM
+## App cần thiết:
+Tivimate cho AndroidTV
 IPTV pro mod Android: https://www.minhtamvn.com/2020/08/iptv-pro-xem-tv-cho-android.html?m=1
 Hoặc tự tra google
 VLC cũng play được m3u (chọn kênh trong playlist)
