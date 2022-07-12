@@ -1,6 +1,8 @@
 # FIRST
 **Đây là nơi lưu trữ công khai file, xin không đem đi share nhé!**
 
+---------
+
 ## Sofware
 
 [Tổng hợp phần mềm thiết yếu PITVN](bit.ly/pitvn69)
