@@ -27,6 +27,16 @@
 
 ---
 
+## Link 1 vài website
+
+[Torrent sth](https://zypuu.com/d/95-bt)
+
+[Get Link FShare ổn định <6GB](https://www.newscon.net/getlink/)
+
+[Get Link FShare nhà người ta trồng](https://fshare.ga/)
+
+---
+
 ## LIST IPTV VÀ CÁC APP ĐỂ XEM
 
 ### App cần thiết:
