@@ -111,11 +111,12 @@ bom.to/beartv
 
 [Post gốc](https://m.facebook.com/groups/kodiviet/permalink/1349593462231109/)
 
-[Link GDrive gốc](https://drive.google.com/drive/folders/100ExwMzr91ApUL2qy1ZDGrpdh4pmGDVp)
+#### Release:
 
 [17.27.35](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.35)
 
 [17.27.33](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.33)
+
 Đây không phải ~~Youtube Revanced~~ nhé!
 
 #### Thông tin về bản mod này:
