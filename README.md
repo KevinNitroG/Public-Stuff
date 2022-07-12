@@ -47,6 +47,8 @@
 
 [VLC - PC](https://www.videolan.org/) _(chọn kênh trong playlist)_
 
+[MonsterTV - Android](https://xemtivi.xyz/) _(app xem tv)_
+
 #### DÙNG CHO MỌI NHÀ MẠNG
 
 ```
@@ -146,6 +148,8 @@ bom.to/beartv
 [Nplayer Mod](https://github.com/KevinNitroG/Public-Stuff/releases/tag/Nplayer_1.7.7.7_191219)
 
 Mọi thông tin có trong phần `Release`
+
+---
 
 ## Link Google Groups phim - mirror / leech torrent
 
