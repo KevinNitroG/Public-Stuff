@@ -147,3 +147,8 @@ bom.to/beartv
 
 Mọi thông tin có trong phần `Release`
 
+##Link Google Groups phim - mirror / leech torrent
+
+Tất cả những group được sưu tầm [tại đây](https://github.com/KevinNitroG/Public-Stuff/blob/main/Google_group.txt)
+
+**Muốn join bằng google account khác thì thêm /u/[số]/ vào sau .com - trước /g/ nhé**
