@@ -103,16 +103,18 @@ bom.to/beartv
 
 [Link GDrive gốc](https://drive.google.com/drive/folders/100ExwMzr91ApUL2qy1ZDGrpdh4pmGDVp)
 
+[17.27.35](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.35)
+
+[17.27.33](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.33)
 Đây không phải ~~Youtube Revanced~~ nhé!
 
 #### Thông tin về bản mod này:
-- Dựa theo bản `Youtube 17.27.33` khá mới.
-- Do anh **Lambass** người Việt mod theo mã nguồn mở của Vanced trước khi ngỏm.
-- Đầy đủ tính năng của Vanced _(các cài đặt, tinh chỉnh đều có cả)_.
-- Hỗ trợ **download trực tiếp** trong Youtube Vanced _(cần cài thêm app)_.
-- Dung lượng nhẹ, khá nhẹ.
-- Mod cả **tên** lẫn **icon** của app theo Youtube gốc.
-- V2 mod Premium Heading. V1 thì không nhé.
+- Do anh **Lambass** người Việt mod theo mã nguồn mở của Vanced trước khi ngỏm
+- Đầy đủ tính năng của Vanced _(các cài đặt, tinh chỉnh đều có cả)_
+- Hỗ trợ **download trực tiếp** trong Youtube Vanced _(cần cài thêm app)_
+- Dung lượng nhẹ, khá nhẹ
+- Mod cả **tên** lẫn **icon** của app theo Youtube gốc
+- Mod Premium Heading
 
 #### Các bước cài đặt:
 
