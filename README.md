@@ -35,8 +35,6 @@
 [IPTV Pro mod - Android](https://www.minhtamvn.com/2020/08/iptv-pro-xem-tv-cho-android.html?m=1) _(Hoặc tự tra google)_
 [VLC - PC](https://www.videolan.org/) _(chọn kênh trong playlist)_
 
-------
-
 #### DÙNG CHO MỌI NHÀ MẠNG
 
 ```
@@ -48,8 +46,6 @@ https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlis
 
 [Source Chungmaster](https://github.com/chungmaster/chungmaster.github.io)
 
-------
-
 #### ĐÁ BANH
 
 ```
@@ -57,16 +53,12 @@ http://gg.gg/vn360sport
 http://bit.ly/acebongdabest
 ```
 
-------
-
 #### CHỈ MẠNG FPT
 
 ```
 http://bit.ly/listfptudp
 http://gg.gg/FPT1TV
 ```
-
-------
 
 #### QUỐC TẾ
 
@@ -78,8 +70,6 @@ https://iptv-org.github.io/iptv/index.country.m3u
 
 [Source](https://github.com/iptv-org/iptv)
 
-------
-
 #### VIỆT NAM ờm...
 
 ```
@@ -89,8 +79,6 @@ http://gg.gg/cocaepg (dead)
 http://gg.gg/coocaa
 http://gg.gg/tviettivii (dead)
 ```
-
-------
 
 #### Nhặt ở đâu đó, có vẻ tín :))
 
