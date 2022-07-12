@@ -151,4 +151,6 @@ Mọi thông tin có trong phần `Release`
 
 Tất cả những group được sưu tầm [tại đây](https://github.com/KevinNitroG/Public-Stuff/blob/main/Google_group.txt)
 
-**Muốn join bằng google account khác thì thêm `/u/[số]/` vào sau `.com` - trước `/g/` nhé**
+Muốn join bằng google account khác thì thêm `/u/[số]/` vào sau `.com` - trước `/g/` nhé
+
+Mạng FPT thì dùng VPN hoặc đổi DNS
