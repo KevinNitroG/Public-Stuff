@@ -122,10 +122,10 @@ bom.to/beartv
 #### Thông tin về bản mod này:
 - Do anh **Lambass** người Việt mod theo mã nguồn mở của Vanced trước khi ngỏm
 - Đầy đủ tính năng của Vanced _(các cài đặt, tinh chỉnh đều có cả)_
-- Hỗ trợ **download trực tiếp** trong Youtube Vanced _(cần cài thêm app)_
+- Hỗ trợ `download` trực tiếp trong Youtube Vanced _(cần cài thêm app)_
 - Dung lượng nhẹ, khá nhẹ
 - Mod cả **tên** lẫn **icon** của app theo Youtube gốc
-- Mod Premium Heading
+- Mod `Premium Heading`
 
 #### Các bước cài đặt:
 
