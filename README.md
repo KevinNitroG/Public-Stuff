@@ -112,9 +112,13 @@ bom.to/beartv
 
 [Original Vanced APK Archive](https://github.com/Norikiru/VancedAPKs)
 
-[Revanced - Hơi non nên đừng dùng](https://revanced.app/) [_Telegram Channel Unofficial_](https://t.me/ReVancedTeam1)
+[Revanced - Hơi non nên đừng dùng](https://revanced.app/)
 
-[Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2) [_Telegram Channel_](https://t.me/vanced_mod_archive)
+> [Telegram Channel Unofficial](https://t.me/ReVancedTeam1)
+
+[Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
+
+> [Telegram Channel](https://t.me/vanced_mod_archive)
 
 ---
 
