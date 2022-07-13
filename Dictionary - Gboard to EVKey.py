@@ -1,11 +1,6 @@
 input=""" """
 
-list = []
-for i in input.split("\n"):
-    list.append(i.split("\t"))
-
-for i in list:
-    print("||".join(i)[:-2])
+for i in input.split("\n"): print("||".join(i.split("\t"))[:-2])
 
 #Made by LongTo
 #Xuất Từ điển của GBoard
