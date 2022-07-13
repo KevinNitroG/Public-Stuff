@@ -118,7 +118,7 @@ bom.to/beartv
 
 - [Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
 
-  -[Telegram Channel](https://t.me/vanced_mod_archive)
+  - [Telegram Channel](https://t.me/vanced_mod_archive)
 
 - [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff/blob/main/README.md#youtube-vanced)
 ---
@@ -174,4 +174,4 @@ Tất cả những group được sưu tầm [tại đây](https://github.com/Ke
 
 Muốn join bằng google account khác thì thêm `/u/[số]/` vào sau `.com` - trước `/g/` nhé
 
-Mạng FPT thì dùng VPN hoặc đổi DNS
+Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
