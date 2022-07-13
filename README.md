@@ -108,18 +108,19 @@ bom.to/beartv
 
 ## Youtube Mod
 
-[Original Vanced Manager mod](https://github.com/Norikiru/VancedInstall)
+- [Original Vanced Manager mod](https://github.com/Norikiru/VancedInstall)
 
-[Original Vanced APK Archive](https://github.com/Norikiru/VancedAPKs)
+- [Original Vanced APK Archive](https://github.com/Norikiru/VancedAPKs)
 
-[Revanced - Hơi non nên đừng dùng](https://revanced.app/)
+- [Revanced - Hơi non nên đừng dùng](https://revanced.app/)
 
-> [Telegram Channel Unofficial](https://t.me/ReVancedTeam1)
+  - [Telegram Channel Unofficial](https://t.me/ReVancedTeam1)
 
-[Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
+- [Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
 
-> [Telegram Channel](https://t.me/vanced_mod_archive)
+  -[Telegram Channel](https://t.me/vanced_mod_archive)
 
+- [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff/blob/main/README.md#youtube-vanced)
 ---
 
 ## Lambass apps:
