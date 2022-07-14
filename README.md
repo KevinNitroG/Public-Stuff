@@ -120,7 +120,7 @@ bom.to/beartv
 
   - [Telegram Channel](https://t.me/vanced_mod_archive)
 
-- [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff/blob/main/README.md#youtube-vanced)
+- [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff#youtube-vanced)
 
 ---
 
