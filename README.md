@@ -115,11 +115,9 @@ bom.to/beartv
 - [Original Vanced APK Archive](https://github.com/Norikiru/VancedAPKs)
 
 - [Revanced - Hơi non nên đừng dùng](https://revanced.app/)
-
   - [Telegram Channel Unofficial](https://t.me/ReVancedTeam1)
 
 - [Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
-
   - [Telegram Channel](https://t.me/vanced_mod_archive)
 
 - [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff#youtube-vanced)
@@ -145,11 +143,17 @@ bom.to/beartv
 [17.27.33](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.33)
 
 ### Thông tin về bản mod này:
+
 - Do anh **Lambass** người Việt mod theo mã nguồn mở của Vanced trước khi ngỏm
+
 - Đầy đủ tính năng của Vanced _(các cài đặt, tinh chỉnh đều có cả)_
+
 - Hỗ trợ `download` trực tiếp trong Youtube Vanced _(cần cài thêm app)_
+
 - Dung lượng nhẹ, khá nhẹ
+
 - Mod cả **tên** lẫn **icon** của app theo Youtube gốc
+
 - Mod `Premium Heading`
 
 ### Các bước cài đặt:
@@ -184,13 +188,10 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 # TẠO SHARED DRIVE FREE
 
 - [td.msgsuite.workers.dev](https://td.msgsuite.workers.dev/)
-
   - [Source Github](https://github.com/MsGsuite/Shared-Drives-Creator-Website)
-
   - [Backup link](http://msgsuite.eu.org/)
 
 - [td.hashhackers.win](https://td.hashhackers.win/)
-
   - [Source Github](https://github.com/devillD/Shared-Drive-Creator)
 
 **Lưu ý:** Chỉ nên lưu trữ tạm thời file thôi. Rất rủi ro đấy.
