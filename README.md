@@ -246,7 +246,7 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 
 ---
 
-#AD-BLOCK
+# AD-BLOCK
 
 ## DNS ad-block
 
