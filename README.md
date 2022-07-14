@@ -231,7 +231,9 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 
 ---
 
-# DNS AD-BLOCK
+#AD-BLOCK
+
+## DNS ad-block
 
 - [Adguard](https://adguard.com/)
 
@@ -262,3 +264,11 @@ dns.abpvn.com
 ```
 http://doh.tiar.app
 ```
+
+## Filter ad-block
+
+- [ABPVN](https://abpvn.com/get)
+
+- [HostVN - ngoại lệ tí :P](https://github.com/bigdargon/hostsVN)
+
+- [OISD](https://oisd.nl/downloads)
