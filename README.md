@@ -25,6 +25,39 @@
 
 - [Tài liệu của Khánh](https://pitvn-my.sharepoint.com/:f:/g/personal/giakhanh_pitvn_onmicrosoft_com/Ei7jAqH3oDdCp7hLqSxPrm0BgGGANoKInO1n8_t6CNp0pQ?e=xPoqkC)
 
+## Nhánh nhỏ chôm ở đâu đó
+- [Book](https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG)
+- [Movie Theme](https://drive.google.com/drive/mobile/folders/1P15Ets-NwYxW1n2wu59Knm9uYn27cPey?usp=sharing)
+- [Orienting Child](https://drive.google.com/drive/mobile/folders/1ZI1Ta8ZTY_an7vEKa5oSrNBpaPFob1FB?usp=sharing)
+- [Kịch](https://drive.google.com/drive/mobile/folders/1BvdLoy4zYCugSQl7ToGF97i1RwAbEf09/1iYRwsdkb-P6ZHeFiyj6UWR1vfNUr1YQU?sort=13&direction=a)
+- [Powerpoint](https://drive.google.com/drive/mobile/folders/0BwRuZt4Aidm1LXd3dGNldHcyZm8?resourcekey=0-Z_bVUcrH1Jk6Kfm4Sodbiw)
+- [Book 2](https://drive.google.com/drive/mobile/folders/1Z30-9EO6B0oEuFHYMKUzzzEO6p82-dYU/1mXAydnwLE_Bq3yr2OXZD28lgM6MdX43y?usp=sharing&sort=13&direction=a)
+- [Book 3](https://drive.google.com/drive/mobile/folders/0B1ySOrPxOWJmZGlNTkEtQnlEM3M)
+- [Various](https://drive.google.com/drive/mobile/folders/1S-zjW17dRGK3XEi8l1T5bEUHJqMxto5X)
+- [Book for Developer](https://drive.google.com/drive/mobile/folders/0B7T1_yL7RJIabmFBdkdCci1aTzA?resourcekey=0-NRT40ihLkhp2sM6uLiVwLA)
+- [Movie Good](https://drive.google.com/drive/mobile/folders/1uXCWl9rGsndFg_jpQ6VHq59OcQYb-Et1?usp=sharing)
+- [CSS](https://drive.google.com/drive/mobile/folders/0Bwq1uYZkxJQeYm54X080WHQwZGc)
+- [Book 4](https://drive.google.com/drive/mobile/folders/1iQMdq5yK0EBqa1fgkmQTfW7EWSeJWYvT)
+- [Book 5](https://drive.google.com/drive/mobile/folders/1vlY512iwG0yrTFE3Hha_lhBZq9zavQE]
+- [Ninja Go](https://drive.google.com/drive/mobile/folders/1-OOdzY2lANvqfYs_MNTLdBYHfuDGlroI)
+- [Combat Footage](https://drive.google.com/drive/mobile/folders/1cs6Inepeh7cryX1abtNaCqq5Bwi-5NBT?usp=sharing)
+- [Pooh](https://drive.google.com/drive/mobile/folders/1now-ZYgev0jqF9zYajiridnCuB4jK-Li)
+- [Forbidden](https://drive.google.com/drive/mobile/folders/1RIhxwUu7KkSF2jMDJJ1E45l-pgr_HZKo)
+- [Various 2](1https://drive.google.com/drive/mobile/folders/1OuJJg_zr4pG3EW2SYFyV4CaBxlyypZAQl)
+- [Freepik](https://drive.google.com/drive/mobile/folders/1OuAHMxZ5cBFrewoOKaWrYwQJWUaXwdx)
+- [IDKI](https://drive.google.com/drive/mobile/folders/1ZXEhzbLRLU1giKKRJkjm8N04cO_JoYE2?usp=sharing)
+- [Football](https://drive.google.com/drive/mobile/folders/1k6xE2DtXBKAriL8ZywzOhnN7iZqq_zvl?usp=drive_open)
+- [Comic](https://drive.google.com/drive/mobile/folders/0BzQJzw2V271wYTJna0VoMVZVaXc?tid=0BzQJzw2V271wYTJna0VoMVZVaXc&resourcekey=0-g413K9OOzU5fTTeH7Y78XA)
+- [Civil War](https://drive.google.com/drive/folders/0B8Ywk6I3mYFHVE5rQkVSU2JwSTQ)
+- [Runaways](https://drive.google.com/drive/folders/0B3-Dw8F7GF9mVTNwWGJOTFJPZkU)
+- [Tintin](https://drive.google.com/drive/folders/1YaYbVAvWT6nYtnBz0bKuTE1OekufW-K9)
+- [Xmas Show](https://drive.google.com/drive/mobile/folders/0B1j88lrqI04bUzQ5MUlpanhDMlk)
+- [Music Learn](https://drive.google.com/drive/mobile/folders/0B_7ouZw-H499TGdvNUdvRWJBRW8)
+- [Book 6](https://drive.google.com/drive/mobile/folders/1n0fBJiHtmB8F-rDFwi4TsSS-k7ZMmc8k)
+- [Anesthesia](https://drive.google.com/drive/mobile/folders/0B0eS5jOms_k3TEtFNHNMdi14TlU)
+
+
+
 ---
 
 # LINK 1 VÀI WEBSITE
