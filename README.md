@@ -233,7 +233,7 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 
 # DNS AD-BLOCK
 
--- [Adguard](https://adguard.com/)
+- [Adguard](https://adguard.com/)
 
 ```
 dns.adguard.com
@@ -241,7 +241,7 @@ dns.adguard.com
 94.140.15.15
 ```
 
--- [ABPVN](https://abpvn.com/)
+- [ABPVN](https://abpvn.com/)
 
 ```
 dns.abpvn.com
@@ -251,7 +251,7 @@ dns.abpvn.com
 103.199.16.240 (HCM)
 ```
 
--- [NextDNS](https://nextdns.io/)
+- [NextDNS](https://nextdns.io/)
 
 ```
 234989.dns.nextdns.io
