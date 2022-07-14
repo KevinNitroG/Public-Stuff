@@ -60,15 +60,23 @@
 
 ---
 
-# LINK 1 VÀI WEBSITE
+# WEBSITE...
 
 - [Torrent sth](https://zypuu.com/d/95-bt)
+
+- [The Bay Index](https://www.thebayindex.tk/)
+
+## Get Link File
 
 - [Get Link FShare ổn định <6GB](https://www.newscon.net/getlink/)
 
 - [Get Link FShare nhà người ta trồng](https://fshare.ga/)
 
-- [The Bay Index](https://www.thebayindex.tk/)
+## Các website xem phim tốt _(chất lượng cao)_
+
+- [MacChill](https://chilleveryday.ga/)
+
+- [Myflixer](https://myflixer.to/)
 
 ---
 
