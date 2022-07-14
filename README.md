@@ -233,16 +233,32 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 
 # DNS AD-BLOCK
 
-## [Adguard]()
+## [Adguard](https://adguard.com/)
 
+```
 dns.adguard.com
 94.140.14.14
 94.140.15.15
+```
 
-## [ABPVN]()
+## [ABPVN](https://abpvn.com/)
 
+```
 dns.abpvn.com
 104.21.71.173
 139.59.219.245
 149.28.148.61 (Sing)
 103.199.16.240 (HCM)
+```
+
+## [NextDNS](https://nextdns.io/)
+
+```
+234989.dns.nextdns.io
+```
+
+## Tiar (Sing)
+
+```
+http://doh.tiar.app
+```
