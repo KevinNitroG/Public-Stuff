@@ -176,3 +176,11 @@ Tất cả những group được sưu tầm [tại đây](https://github.com/Ke
 Muốn join bằng google account khác thì thêm `/u/[số]/` vào sau `.com` - trước `/g/` nhé
 
 Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
+
+---
+
+#TẠO SHARED DRIVE FREE
+
+- [td.msgsuite.workers.dev](https://td.msgsuite.workers.dev/)
+  - [Source Github](https://github.com/MsGsuite/Shared-Drives-Creator-Website)
+  - [Backup link](http://msgsuite.eu.org/)
