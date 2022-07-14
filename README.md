@@ -136,7 +136,7 @@ bom.to/beartv
 
 [Post gốc](https://m.facebook.com/groups/kodiviet/permalink/1349593462231109/)
 
-### Release:
+### Release _(Tải ở đây)_:
 
 [17.27.35](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.35)
 
