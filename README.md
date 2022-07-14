@@ -195,3 +195,21 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
   - [Source Github](https://github.com/devillD/Shared-Drive-Creator)
 
 **Lưu ý:** Chỉ nên lưu trữ tạm thời file thôi. Rất rủi ro đấy.
+
+---
+
+# DNS AD-BLOCK
+
+## [Adguard]()
+
+dns.adguard.com
+94.140.14.14
+94.140.15.15
+
+## [ABPVN]()
+
+dns.abpvn.com
+104.21.71.173
+139.59.219.245
+149.28.148.61 (Sing)
+103.199.16.240 (HCM)
