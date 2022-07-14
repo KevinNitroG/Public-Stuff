@@ -72,6 +72,15 @@
 
 ---
 
+#TOOLS CHEAT HACK
+
+- [Microsoft Office - E5 - Auto Renew / Modified](https://github.com/zhtok/MSO_E5_Dev_AutoRenew_Modified)
+
+- [1.1.1.1 Warp++ Free](http://rockwonder.herokuapp.com/)
+  - [Source Github](https://github.com/kakamband/1.1.1.1_VPN)
+
+---
+
 # LIST IPTV VÀ CÁC APP ĐỂ XEM TV
 
 ## App cần thiết:
