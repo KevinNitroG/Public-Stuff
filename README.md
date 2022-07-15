@@ -76,6 +76,11 @@
 
 - [Myflixer](https://myflixer.to/)
 
+- [AnimixPlay - For Wibu :v](https://animixplay.to/)
+
+- [HDO App](https://hdo.app/)
+> Này là app, không phải web. Xem phim tạm, khá.
+
 ---
 
 # TOOLS CHEAT HACK
