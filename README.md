@@ -156,7 +156,7 @@ bom.to/beartv
 
 ---
 
-# YOUTUBE MOD CHO ANDROID
+# YOUTUBE MOD
 
 - [Original Vanced Manager mod](https://github.com/Norikiru/VancedInstall)
 
@@ -169,6 +169,10 @@ bom.to/beartv
   - [Telegram Channel](https://t.me/vanced_mod_archive)
 
 - [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff#youtube-vanced)
+
+- [SmartTubeNext - Android TV](https://smartyoutubetv.github.io/)
+  - [Telegram Channel](https://t.me/SmartTubeNextNewsEN)
+  - [Source Github](https://github.com/yuliskov/SmartTubeNext)
 
 ---
 
