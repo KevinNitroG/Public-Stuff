@@ -78,8 +78,7 @@
 
 - [AnimixPlay - For Wibu :v](https://animixplay.to/)
 
-- [HDO App](https://hdo.app/)
-> Này là app, không phải web. Xem phim tạm, khá.
+- [HDO App](https://hdo.app/) _Này là app, không phải web. Xem phim tạm, khá._
 
 ---
 
