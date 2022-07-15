@@ -89,6 +89,11 @@
 - [1.1.1.1 Warp++ Free](http://rockwonder.herokuapp.com/)
   - [Source Github](https://github.com/kakamband/1.1.1.1_VPN)
 
+- [Google Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks)
+
+- [Google Colab OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)
+  - [Source Github](https://github.com/biplobsd/OneClickRun)
+
 ---
 
 # LIST IPTV VÀ CÁC APP ĐỂ XEM TV
