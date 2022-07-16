@@ -28,7 +28,7 @@
 
 - [Tài liệu của Khánh](https://pitvn-my.sharepoint.com/:f:/g/personal/giakhanh_pitvn_onmicrosoft_com/Ei7jAqH3oDdCp7hLqSxPrm0BgGGANoKInO1n8_t6CNp0pQ?e=xPoqkC)
 
-- [Tổng hợp playlist youtube Phim - bởi Thanh Long]https://yamcode.com/zkqkxmmkkg)
+- [Tổng hợp playlist youtube Phim - bởi Thanh Long](https://yamcode.com/zkqkxmmkkg)
   - [Post gốc](https://www.facebook.com/groups/maybewatchmovie/permalink/1126397304633546/)
   - [Backup link](https://github.com/KevinNitroG/Public-Stuff/blob/main/Youtube%20Playlist%20Films.md)
 
