@@ -1,5 +1,5 @@
 # READ ME PLEASE!
-### Đây là nơi lưu trữ công khai file, xin không đem đi share nhé!
+### Đây là nơi lưu trữ công khai file, NHƯNG xin không đem đi share nhé!
 
 ---
 
