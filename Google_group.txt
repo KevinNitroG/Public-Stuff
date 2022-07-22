@@ -1,4 +1,12 @@
 Muốn join bằng google account khác thì thêm /u/[số]/ vào sau .com - trước /g/ nhé
+ Ví dụ: https://groups.google.com/u/1/g/...
+
+Lưu ý: 
+
+Nếu bạn dùng nhà mạng FPT thì đổi DNS hoặc dùng VPN.
+Nên Join bằng acc phụ nếu bạn dùng các phần mềm như GDrive for Desktop, RailDrive, AirExplorer bởi nếu không khi vào mục Shared Drive, máy bạn sẽ đơ ((: hoặc máy mạnh chắc không sao.
+
+LIST:
 
 https://groups.google.com/g/bot-up-qua-drive
 https://groups.google.com/g/hieuit-friends
