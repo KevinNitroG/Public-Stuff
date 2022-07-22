@@ -73,10 +73,17 @@
 
 ## INDEXES:
 
+[Simple Program All Index - Bhadoo Telegram](https://t.me/SimpleProgram/2)
+
+- [Bhadoo Movies Search All](https://simpleprogram.eu.org)
+
 - [index-builder.hashhackersapi](https://index-builder.hashhackersapi.workers.dev/0:/BotUploads/)
 
 - [OnHDVideos](https://TrollHD:TrollHD@td.onhdvideos.workers.dev/0:/)
   - User:Password vào [Channel TrollRelease Telegram](https://t.me/TrollReleases) lấy
+
+- [Punjabi Movies](https://simpleprogram.eu.org/3:/)
+
 
 ## Get Link File
 
