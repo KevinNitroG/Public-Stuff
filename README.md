@@ -75,6 +75,9 @@
 
 - [index-builder.hashhackersapi](https://index-builder.hashhackersapi.workers.dev/0:/BotUploads/)
 
+- [OnHDVideos](https://TrollHD:TrollHD@td.onhdvideos.workers.dev/0:/)
+  - User:Password vào [Channel TrollRelease Telegram](https://t.me/TrollReleases) lấy
+
 ## Get Link File
 
 - [Get Link FShare ổn định <6GB](https://www.newscon.net/getlink/)
