@@ -285,6 +285,22 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 - [td.hashhackers.win](https://td.hashhackers.win/)
   - [Source Github](https://github.com/devillD/Shared-Drive-Creator)
 
+## Một mớ chôm trên mạng
+```
+https://td.hackgence.com
+https://td.fastio.me
+https://gdrive.zppcw.cn
+https://teamdrive.mfoxx.workers.dev
+https://teamdrive.xcpx.workers.dev
+https://td.msgsuite.workers.dev/
+https://white-limit-b897.kfuentes.wor...
+https://drive.hackgence-com.workers.dev/
+https://team.hackgence.com/
+https://team.gdrive.vip/
+https://gd.404edu.workers.dev/
+https://gd.zxd.workers.dev/
+```
+
 **Lưu ý:** Chỉ nên lưu trữ tạm thời file thôi. Rất rủi ro đấy.
 
 ---
