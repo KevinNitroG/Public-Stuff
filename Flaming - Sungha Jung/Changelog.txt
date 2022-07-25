@@ -1,0 +1,14 @@
+Why there's two version?
+- Because after having rearranged 3 tabs, I've got more experience to work with guitar pro, and increased my ability to listen what note and skill exactly. So, I decide to make a V2.
+----------------------------------------------------------
+Changes between V1 and V2 version:
+- Change tuning to Half Step Down (Baritone is still fine) 
+- Change names of Sections
+- Repeat symbol at Intro, Chorus - Extended
+- Remove arrow symbol (that's too hard to see), replace with Pickstroke Up / Down
+- Change 'Palm' to 'P', Slap symbol to 'S', 'Strongly Pluck' to 'Bass Slap'
+- Mostly changes in 'Slapping Harmonic' Section (change for best symbol)
+- Fix some notes, length of notes (or duration of notes idk how to call it) in Intro, Midtro, Chorus and Verse
+- Change Accented Notes, Heavily Accented Notes
+- Add Finger symbol in some places
+- Resize the Bars
