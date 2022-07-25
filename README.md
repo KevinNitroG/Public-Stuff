@@ -106,9 +106,15 @@
 
 - [Myflixer](https://myflixer.to/)
 
-- [AnimixPlay - For Wibu :v](https://animixplay.to/)
-
 - [HDO App](https://hdo.app/) _Này là app, không phải web. Xem phim tạm, khá._
+
+Anime:
+
+- [AnimixPlay](https://animixplay.to/)
+
+- [AnimeVietsub](http://animevietsub.tv/)
+
+- [Ani4u](http://ani4u.org/)
 
 ---
 
