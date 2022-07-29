@@ -236,35 +236,17 @@ bom.to/beartv
 
 [Post gốc](https://m.facebook.com/groups/kodiviet/permalink/1349593462231109/)
 
-### Release _(Tải ở đây)_:
-
-[17.27.35](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.35)
-
-[17.27.33](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVanced17.27.33)
-
-### Thông tin về bản mod này:
-
-- Do anh **Lambass** người Việt mod theo mã nguồn mở của Vanced trước khi ngỏm
-
-- Đầy đủ tính năng của Vanced _(các cài đặt, tinh chỉnh đều có cả)_
-
-- Hỗ trợ `download` trực tiếp trong Youtube Vanced _(cần cài thêm app)_
-
-- Dung lượng nhẹ, khá nhẹ
-
-- Mod cả **tên** lẫn **icon** của app theo Youtube gốc
-
-- Mod `Premium Heading`
+### [Download tại đây](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVancedLambass)
 
 ### Các bước cài đặt:
 
-1. Cài [Vanced MicroG](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedAdditionalApps/Vanced_MicroG_0.2.24.220220_Lite.apk) _(Có sẵn Vanced Microg rồi thì khỏi cài nhé)_.
+1. Cài [Vanced MicroG](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedLambass/Vanced_MicroG_0.2.24.220220_Lite.apk) _(Có sẵn Vanced Microg rồi thì khỏi cài nhé)_.
 > Cái này dùng để `login` vào **Google Acount** của bạn. Mình không rõ dùng Microg gốc có được không nữa.
 
 2. Cài 1 trong 2 bản `Youtube Vanced Black` hoặc `Youtube Vanced Dark`
 > Bản `Dark` là nền tối bình thường _(Xám)_ còn `Black` là nền tối đen thùi lùi nhé.
 
-3. Cài [PowerTube](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedAdditionalApps/PowerTube_5.0.3.apk) _(Không bắt buộc)_.
+3. Cài [PowerTube](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedLambass/PowerTube_5.0.3.apk) _(Không bắt buộc)_.
 > Cài khi bạn muốn dùng tính năng `Download video/audio` trong Youtube Vanced.
 
 ## NPLAYER MOD
