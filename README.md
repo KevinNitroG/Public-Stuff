@@ -124,7 +124,7 @@ Anime:
 - [RBMods](https://www.rockmods.net/) _(Tắt AdBlock nha)_
   - [Public Telegram Channel](https://t.me/RBMods)
 
--[HappyMod](https://happymod.com/)
+- [HappyMod](https://happymod.com/)
 
 - [RexDL](https://rexdl.com/)
 
