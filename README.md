@@ -322,6 +322,7 @@ dns.abpvn.com
 
 ```
 234989.dns.nextdns.io
+6963a7.dns.nextdns.io
 ```
 
 ### Tiar (Sing)
