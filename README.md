@@ -129,6 +129,16 @@ Anime:
 - [RexDL](https://rexdl.com/)
 
 - [APKMody - Việt Nam](https://apkmody.io/)
+
+## Website tải App Crack cho Windows _(Chủ yếu hàng Nga)_
+
+- [Rsload](https://rsload.net/)
+> Pass giải nén `rsload`
+
+- [Repack.me](https://repack.me/)
+
+- [LRePack](https://lrepacks.net/)
+
 ---
 
 # TOOLS CHEAT HACK
