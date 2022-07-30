@@ -229,17 +229,22 @@ bom.to/beartv
 
 # YOUTUBE MOD
 
-- [Original Vanced Manager mod](https://github.com/Norikiru/VancedInstall)
+- [Original Vanced Manager](https://github.com/Norikiru/VancedInstall)
+> Đã qua mod để tải được
 
 - [Original Vanced APK Archive](https://github.com/Norikiru/VancedAPKs)
 
-- [Revanced - Hơi non nên đừng dùng](https://revanced.app/)
+- [Revanced](https://revanced.app/)
   - [Telegram Channel Unofficial](https://t.me/ReVancedTeam1)
+> Hiện tại Revanced hơi non nên đừng dùng
 
 - [Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
   - [Telegram Channel](https://t.me/vanced_mod_archive)
 
-- [Youtube Vanced Mod Lambass](https://github.com/KevinNitroG/Public-Stuff#youtube-vanced)
+- [Youtube Vanced](https://github.com/KevinNitroG/Public-Stuff#youtube-vanced) - Lambass mod
+
+- [Youtube Pro](https://www.samapkstore.com/2021/04/download-youtube-pro.html?m=1) - Sam Mod
+  - [MicroG](https://www.mediafire.com/file/qg4hlsgmd0miq11/MicroG.apk/file) cho Youtube Pro
 
 - [SmartTubeNext - Android TV](https://smartyoutubetv.github.io/)
   - [Telegram Channel](https://t.me/SmartTubeNextNewsEN)
