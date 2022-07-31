@@ -373,3 +373,4 @@ http://doh.tiar.app
 
   - [Source 1](https://t.me/Awesome_Tools/944)
   - [Source 2](https://t.me/Awesome_Tools/946)
+  - [Wikipedia](https://en.m.wikipedia.org/w/index.php?title=List_of_file_formats&oldid=1100876304) - đầy đủ nhất
