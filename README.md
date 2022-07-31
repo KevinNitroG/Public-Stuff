@@ -366,3 +366,9 @@ http://doh.tiar.app
 - [HostVN - ngoại lệ tí :P](https://github.com/bigdargon/hostsVN)
 
 - [OISD](https://oisd.nl/downloads)
+
+# NOTES
+
+- [Ý nghĩa của đuôi file](https://raw.githubusercontent.com/KevinNitroG/Public-Stuff/main/All%20File%20Extensions'%20Meaning.txt)
+  - [Source 1](https://t.me/Awesome_Tools/944)
+  - [Source 2](https://t.me/Awesome_Tools/946)
