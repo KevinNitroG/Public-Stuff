@@ -370,7 +370,8 @@ http://doh.tiar.app
 # NOTES
 
 - [Ý nghĩa của đuôi file](https://raw.githubusercontent.com/KevinNitroG/Public-Stuff/main/All%20File%20Extensions'%20Meaning.txt)
-
   - [Source 1](https://t.me/Awesome_Tools/944)
   - [Source 2](https://t.me/Awesome_Tools/946)
   - [Wikipedia](https://en.m.wikipedia.org/w/index.php?title=List_of_file_formats&oldid=1100876304) - đầy đủ nhất
+
+- [Linux VPS free](https://killercoda.com/thuonghaideveloper2711)
