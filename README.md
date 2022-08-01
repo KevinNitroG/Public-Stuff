@@ -173,7 +173,7 @@ Anime:
 http://gg.gg/kiptv2022
 http://repo.daivietpda.com/MyTV.m3u
 http://gg.gg/coban66
-http://gg.gg/vthanhtivii _(die?)_
+http://gg.gg/vthanhtivii - die?
 http://rebrand.ly/vthanhtivii
 https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlist.m3u
 ```
