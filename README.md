@@ -18,6 +18,9 @@
 - [Download Microsoft Office Tool](https://otp.landian.vip/)
   - [Source Github](https://github.com/YerongAI/Office-Tool)
 
+- [Tool cài - crack Office dễ dùng](https://serialkey89.com/files/office/office2013-2021742/)
+> Không có Office 365
+
 - [Phần mềm backup bản quyền](https://docs.google.com/document/d/e/2PACX-1vS6qiila2Ty-AjMYyw3k7GJY-T2qiKqkL-NsUwQHU85Ckqy5iTRDVHNgy3Rbm4f_ORzNBorELALEPIk/pub)
 
 ---
