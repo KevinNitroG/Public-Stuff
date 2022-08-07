@@ -1,4 +1,4 @@
-### Các Allow Domain cho Adblock để chạy ô kê hơn :v
+# Các Allow Domain cho Adblock để chạy ô kê hơn :v
 
 ```
 *.cdn.fbsbx.com
@@ -16,7 +16,7 @@
 *.octopus-stream01-cads.fpt.vn
 ```
 
-##### Thông tin:
+## Thông tin:
 
 - Bỏ chặn tải tệp từ facebook, cái gì đó của youtube
 - Bỏ chặn wifi marketing của fpt
