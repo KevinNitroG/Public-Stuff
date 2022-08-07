@@ -1,4 +1,6 @@
-'''
+### Các Allow Domain cho Adblock để chạy ô kê hơn :v
+
+```
 *.cdn.fbsbx.com
 *.messenger.com
 *.s.youtube.com
@@ -13,4 +15,4 @@
 *.ads-cdn.fptplay.net
 *.fptplay.vn
 *.octopus-stream01-cads.fpt.vn
-'''
+```
