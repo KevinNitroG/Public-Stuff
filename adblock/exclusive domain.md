@@ -2,7 +2,6 @@
 
 ```
 *.cdn.fbsbx.com
-*.messenger.com
 *.s.youtube.com
 *.returnyoutubedislikeapi.com
 *.sponsor.ajay.app
@@ -16,3 +15,10 @@
 *.fptplay.vn
 *.octopus-stream01-cads.fpt.vn
 ```
+
+##### Thông tin:
+
+- Bỏ chặn tải tệp từ facebook, cái gì đó của youtube
+- Bỏ chặn wifi marketing của fpt
+- Bỏ chặn trang Rockmods
+- Bỏ chặn Youtube Disklike API
