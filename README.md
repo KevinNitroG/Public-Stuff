@@ -35,7 +35,10 @@
   - [Post gốc](https://www.facebook.com/groups/maybewatchmovie/permalink/1126397304633546/)
   - [Backup link](https://github.com/KevinNitroG/Public-Stuff/blob/main/Youtube%20Playlist%20Films.md)
 
-## Nhánh nhỏ chôm ở đâu đó
+## Tài liệu chôm trong Tele MCUDisVN ((:
+
+<Details>
+
 - [Book](https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG)
 - [Movie Theme](https://drive.google.com/drive/mobile/folders/1P15Ets-NwYxW1n2wu59Knm9uYn27cPey?usp=sharing)
 - [Orienting Child](https://drive.google.com/drive/mobile/folders/1ZI1Ta8ZTY_an7vEKa5oSrNBpaPFob1FB?usp=sharing)
@@ -65,6 +68,8 @@
 - [Music Learn](https://drive.google.com/drive/mobile/folders/0B_7ouZw-H499TGdvNUdvRWJBRW8)
 - [Book 6](https://drive.google.com/drive/mobile/folders/1n0fBJiHtmB8F-rDFwi4TsSS-k7ZMmc8k)
 - [Anesthesia](https://drive.google.com/drive/mobile/folders/0B0eS5jOms_k3TEtFNHNMdi14TlU)
+
+</Details>
 
 ---
 
@@ -273,6 +278,8 @@ bom.to/beartv
 
 ### Các bước cài đặt:
 
+<Details>
+
 1. Cài [Vanced MicroG](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedLambass/Vanced_MicroG_0.2.24.220220_Lite.apk) _(Có sẵn Vanced Microg rồi thì khỏi cài nhé)_.
 > Cái này dùng để `login` vào **Google Acount** của bạn. Mình không rõ dùng Microg gốc có được không nữa.
 
@@ -281,6 +288,8 @@ bom.to/beartv
 
 3. Cài [PowerTube](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedLambass/PowerTube_5.0.3.apk) _(Không bắt buộc)_.
 > Cài khi bạn muốn dùng tính năng `Download video/audio` trong Youtube Vanced.
+
+</Details>
 
 ## NPLAYER MOD
 
@@ -301,6 +310,8 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 ---
 
 # TẠO SHARED DRIVE FREE
+
+## Nơi uy tín để tạo, không lo die sớm (vẫn sẽ die vì free thôi :v)
 
 - [td.msgsuite.workers.dev](https://td.msgsuite.workers.dev/)
   - [Source Github](https://github.com/MsGsuite/Shared-Drives-Creator-Website)
@@ -383,3 +394,5 @@ http://doh.tiar.app
 
 - [MacOSX on Broswer](https://replit.com/@UniqueOstrich18/MacOSX?lite=1&outputonly=1)
 > Password: `password`
+
+- [VPS Windows - Microsoft Sanbox](https://github.com/kmille36/Windows-11-VPS)
