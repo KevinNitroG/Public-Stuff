@@ -1,0 +1,147 @@
+{
+    "sources": [
+        {
+            "label": "AdAway official hosts",
+            "url": "https:\/\/adaway.org\/hosts.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "Pete Lowe blocklist hosts",
+            "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+            "enabled": false,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "StevenBlack Unified hosts",
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/hosts",
+            "enabled": false,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "abpvn",
+            "url": "https:\/\/abpvn.com\/android\/abpvn.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "adblock killer",
+            "url": "content:\/\/com.android.externalstorage.documents\/document\/primary%3A.adblocker_1dm%2FUUID27.zip",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "adguard mobile",
+            "url": "https:\/\/filters.adtidy.org\/extension\/ublock\/filters\/11.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "anti adblock killer",
+            "url": "https:\/\/raw.githubusercontent.com\/reek\/anti-adblock-killer\/master\/anti-adblock-killer-filters.txt",
+            "enabled": false,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "ez list adblock warn",
+            "url": "https:\/\/easylist-downloads.adblockplus.org\/antiadblockfilters.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "fanboy enhanced",
+            "url": "https:\/\/www.fanboy.co.nz\/enhancedstats.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "oisd basic",
+            "url": "https:\/\/hosts.oisd.nl\/basic\/",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        }
+    ],
+    "blocked": [
+        {
+            "host": "eu.messenger-notify.digital",
+            "enabled": true
+        },
+        {
+            "host": "ak.hetaruvg.com",
+            "enabled": true
+        }
+    ],
+    "allowed": [
+        {
+            "host": "s.youtube.com",
+            "enabled": true
+        },
+        {
+            "host": "s2.youtube.com",
+            "enabled": true
+        },
+        {
+            "host": "s.ytimg.com",
+            "enabled": true
+        },
+        {
+            "host": "youtubei.googleapis.com",
+            "enabled": true
+        },
+        {
+            "host": "yt3.ggpht.com",
+            "enabled": true
+        },
+        {
+            "host": "linkneverdie.net",
+            "enabled": true
+        },
+        {
+            "host": "api.fptplay.net",
+            "enabled": true
+        },
+        {
+            "host": "static.fptplay.net",
+            "enabled": true
+        },
+        {
+            "host": "ua.fptplay.net",
+            "enabled": true
+        },
+        {
+            "host": "octopus-stream01-cads.fpt.vn",
+            "enabled": true
+        },
+        {
+            "host": "fptplay.vn",
+            "enabled": true
+        },
+        {
+            "host": "wificp.fpt.vn",
+            "enabled": true
+        },
+        {
+            "host": "ads-cdn.fptplay.net",
+            "enabled": true
+        },
+        {
+            "host": "wifi-api.adsplay.net",
+            "enabled": true
+        },
+        {
+            "host": "graph.facebook.com",
+            "enabled": true
+        }
+    ],
+    "redirected": []
+}
