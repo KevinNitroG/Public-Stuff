@@ -41,7 +41,8 @@
 
 <Details>
 
-<summary>**Ấn đây để hiển thị nhiều hơn**
+<summary>
+Ấn đây để hiển thị nhiều hơn
 </summary>
 
 - [Book](https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG)
