@@ -1,5 +1,7 @@
 # READ ME PLEASE!
-### Đây là nơi lưu trữ công khai file, NHƯNG xin không đem đi share nhé!
+
+> **Note**: 
+Đây là nơi lưu trữ công khai file, NHƯNG xin không đem đi share nhé!
 
 ---
 
@@ -38,6 +40,9 @@
 ## Tài liệu chôm trong Tele MCUDisVN ((:
 
 <Details>
+
+<summary>**Ấn đây để hiển thị nhiều hơn**
+</summary>
 
 - [Book](https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG)
 - [Movie Theme](https://drive.google.com/drive/mobile/folders/1P15Ets-NwYxW1n2wu59Knm9uYn27cPey?usp=sharing)
@@ -338,7 +343,8 @@ https://gd.404edu.workers.dev/
 https://gd.zxd.workers.dev/
 ```
 
-**Lưu ý:** Chỉ nên lưu trữ tạm thời file thôi. Rất rủi ro đấy.
+> **Warning**
+Chỉ nên lưu trữ tạm thời file thôi. Rất rủi ro đấy.
 
 ---
 
