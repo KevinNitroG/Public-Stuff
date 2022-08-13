@@ -284,9 +284,13 @@ bom.to/beartv
 
 ### [Download tại đây](https://github.com/KevinNitroG/Public-Stuff/releases/tag/YoutubeVancedLambass)
 
-### Các bước cài đặt:
-
 <Details>
+
+<summary>
+
+### Các bước cài đặt
+
+</summary>
 
 1. Cài [Vanced MicroG](https://github.com/KevinNitroG/Public-Stuff/releases/download/YoutubeVancedLambass/Vanced_MicroG_0.2.24.220220_Lite.apk) _(Có sẵn Vanced Microg rồi thì khỏi cài nhé)_.
 > Cái này dùng để `login` vào **Google Acount** của bạn. Mình không rõ dùng Microg gốc có được không nữa.
