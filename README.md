@@ -37,12 +37,12 @@
   - [Post gốc](https://www.facebook.com/groups/maybewatchmovie/permalink/1126397304633546/)
   - [Backup link](https://github.com/KevinNitroG/Public-Stuff/blob/main/Youtube%20Playlist%20Films.md)
 
-## Tài liệu chôm trong Tele MCUDisVN ((:
+- [Tài liệu tổng hợp](https://docs.google.com/document/d/1ET3IkLGa0mXl_o96ZgxxevBNfs96hVmh/edit?usp=drivesdk&ouid=100653803810411128617&rtpof=true&sd=true)
 
 <Details>
-
 <summary>
-Ấn đây để hiển thị nhiều hơn
+
+## Tài liệu chôm trong Tele MCUDisVN ((:
 </summary>
 
 - [Book](https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG)
