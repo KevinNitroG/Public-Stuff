@@ -39,6 +39,9 @@
 
 - [Tài liệu tổng hợp](https://docs.google.com/document/d/1ET3IkLGa0mXl_o96ZgxxevBNfs96hVmh/edit?usp=drivesdk&ouid=100653803810411128617&rtpof=true&sd=true)
 
+- [Khoá học tổng hợp - Gia Khánh](https://docs.google.com/spreadsheets/d/14tOY5Nrm9wUDywpW3l0Q4ihAHGZcUL0xwUDt8JnDE4w/htmlview)
+  - [Post gốc](https://www.facebook.com/groups/pitvn2022/permalink/3680655898827971/)
+
 <Details>
 <summary>
 
