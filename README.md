@@ -167,6 +167,9 @@ Anime:
 - [1.1.1.1 Warp++ Free](http://rockwonder.herokuapp.com/)
   - [Source Github](https://github.com/kakamband/1.1.1.1_VPN)
 
+- [1.1.1.1 Warp+ buff 1000GB - Việt Nam](https://ootech.ga/threads/bot-get-1tb-1000gb-warp-cloudflare-data-2022.2217/)
+  - [Post gốc](https://www.facebook.com/groups/yamcommunity/permalink/5666471720082273/)
+
 - [Google Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks)
 
 - [Google Colab OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)
