@@ -397,6 +397,7 @@ http://doh.tiar.app
 ## Filter ad-block
 
 - [ABPVN](https://abpvn.com/get)
+> filter vip nè: `https://abpvn.com/vip/admin.txt`
 
 - [HostVN - ngoại lệ tí :P](https://github.com/bigdargon/hostsVN)
 
