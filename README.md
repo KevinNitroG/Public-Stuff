@@ -7,21 +7,25 @@
 
 # PHẦN MỀM MÁY TÍNH
 
-- [Tổng hợp phần mềm thiết yếu PITVN](bit.ly/pitvn69)
+- Phần mềm tổng hợp của PITVN:
+  - [Thiết yếu](bit.ly/pitvn69)
+  - [Tất cả App 😵‍💫](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml#)
 
-- [Tổng hợp phần mềm PITVN](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml#)
+- Adobe App sưu tầm:
+  - [Adobe 2022](https://docs.google.com/spreadsheets/d/1niE7GXhFp4phCIuXojIY4mTriyRcOb05xQheH2SkNRk/htmlview)
+  - [Của da.tuu.1810](https://docs.google.com/document/d/1eGe5MAWn-_YypoJSgopnyJGaCdzjKlqlirRCtySGsak/edit)
 
-- [Adobe 2022](https://docs.google.com/spreadsheets/d/1niE7GXhFp4phCIuXojIY4mTriyRcOb05xQheH2SkNRk/htmlview)
+- Ative Windows / Office tools:
+  - [Active AIO tools v3.1.3](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Activate%20AIO%20Tools%20v3.1.3_pass%201234.rar)
+  - [Mas 1.4](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/MAS_1.4_Password_1234.7z)
+> Thấy `Mas` dùng ô kê hơn. Pass giải nén là `1234`
 
-- [Adobe Crack của da.tuu.1810](https://docs.google.com/document/d/1eGe5MAWn-_YypoJSgopnyJGaCdzjKlqlirRCtySGsak/edit)
-
-- [Active tools](https://github.com/KevinNitroG/Public-Stuff/tree/main/Active_Windows_Office_Tools)
-
-- [Download Microsoft Office Tool](https://otp.landian.vip/)
-  - [Source Github](https://github.com/YerongAI/Office-Tool)
-
-- [Tool cài - crack Office dễ dùng](https://serialkey89.com/files/office/office2013-2021742/)
-> Không có Office 365
+- Tool cài **Microsoft Office**:
+  - [Office Tool Plus](https://otp.landian.vip/)
+> [Source Github](https://github.com/YerongAI/Office-Tool)
+  - [Office C2R Install](https://serialkey89.com/files/office/office2013-2021742/)
+> Tool này dễ dùng nhưng không có Office 365, có cả chức năng crack office
+> [Link lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Office%202013-2021%20C2R%20Install%20v7.4.2.rar)
 
 - [Phần mềm backup bản quyền](https://docs.google.com/document/d/e/2PACX-1vS6qiila2Ty-AjMYyw3k7GJY-T2qiKqkL-NsUwQHU85Ckqy5iTRDVHNgy3Rbm4f_ORzNBorELALEPIk/pub)
 
@@ -42,10 +46,12 @@
 - [Khoá học tổng hợp - Gia Khánh](https://docs.google.com/spreadsheets/d/14tOY5Nrm9wUDywpW3l0Q4ihAHGZcUL0xwUDt8JnDE4w/htmlview)
   - [Post gốc](https://www.facebook.com/groups/pitvn2022/permalink/3680655898827971/)
 
-<Details>
-<summary>
 
 ## Tài liệu chôm trong Tele MCUDisVN ((:
+
+<Details>
+<summary>
+Ấn để xem thêm
 </summary>
 
 - [Book](https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG)
@@ -179,15 +185,26 @@ Anime:
 
 # LIST IPTV VÀ CÁC APP ĐỂ XEM TV
 
-## App cần thiết:
+## App xem TV:
+
+- MonsterTV:
+  - [Trang chủ](https://xemtivi.xyz/)
+  - [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/monstertv-mobile-2.2.apk)
+
+- SportsTV:
+  - [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/SportsTV_3.8.1.apk)
+
+- BeeTV:
+  - [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/beetv_release_minsdk24_v1.3.apk)
+  - Bên trang [ApkMody](https://apkmody.io/apps/beetv)
+
+## App để xem IPTV:
 
 - [Tivimate - AndroidTV](http://bom.to/tivimate)
 
 - [IPTV Pro mod - Android](https://www.minhtamvn.com/2020/08/iptv-pro-xem-tv-cho-android.html?m=1) _(Hoặc tự tra google)_
 
 - [VLC - PC](https://www.videolan.org/) _(chọn kênh trong playlist)_
-
-- [MonsterTV - Android](https://xemtivi.xyz/) _(app xem tv)_
 
 ### Dùng cho mọi nhà mạng
 
