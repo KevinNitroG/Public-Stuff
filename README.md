@@ -18,14 +18,15 @@
 - Ative Windows / Office tools:
   - [Active AIO tools v3.1.3](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Activate%20AIO%20Tools%20v3.1.3_pass%201234.rar)
   - [Mas 1.4](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/MAS_1.4_Password_1234.7z)
-> Thấy `Mas` dùng ô kê hơn. Pass giải nén là `1234`
+  > Thấy `Mas` dùng ô kê hơn. Pass giải nén là `1234`
 
 - Tool cài **Microsoft Office**:
   - [Office Tool Plus](https://otp.landian.vip/)
-> [Source Github](https://github.com/YerongAI/Office-Tool)
+    - [Source Github](https://github.com/YerongAI/Office-Tool)
+
   - [Office C2R Install](https://serialkey89.com/files/office/office2013-2021742/)
-> Tool này dễ dùng nhưng không có Office 365, có cả chức năng crack office
-> [Link lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Office%202013-2021%20C2R%20Install%20v7.4.2.rar)
+    - [Link lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Office%202013-2021%20C2R%20Install%20v7.4.2.rar)
+    > Tool này dễ dùng nhưng không có Office 365, có cả chức năng crack office
 
 - [Phần mềm backup bản quyền](https://docs.google.com/document/d/e/2PACX-1vS6qiila2Ty-AjMYyw3k7GJY-T2qiKqkL-NsUwQHU85Ckqy5iTRDVHNgy3Rbm4f_ORzNBorELALEPIk/pub)
 
@@ -105,7 +106,7 @@
 - [index-builder.hashhackersapi](https://index-builder.hashhackersapi.workers.dev/0:/BotUploads/)
 
 - [OnHDVideos](https://TrollHD:TrollHD@td.onhdvideos.workers.dev/0:/)
-  - User:Password vào [Channel TrollRelease Telegram](https://t.me/TrollReleases) lấy
+  > User:Password vào [Channel TrollRelease Telegram](https://t.me/TrollReleases) lấy
 
 - [Punjabi Movies](https://simpleprogram.eu.org/3:/)
 
@@ -158,7 +159,7 @@ Anime:
 ## Website tải App Crack cho Windows _(Chủ yếu hàng Nga)_
 
 - [Rsload](https://rsload.net/)
-> Pass giải nén `rsload`
+  > Pass giải nén `rsload`
 
 - [Repack.me](https://repack.me/)
 
@@ -171,15 +172,15 @@ Anime:
 - [Microsoft Office - E5 - Auto Renew / Modified](https://github.com/zhtok/MSO_E5_Dev_AutoRenew_Modified)
 
 - [1.1.1.1 Warp++ Free](http://rockwonder.herokuapp.com/)
-  - [Source Github](https://github.com/kakamband/1.1.1.1_VPN)
+  > [Source Github](https://github.com/kakamband/1.1.1.1_VPN)
 
 - [1.1.1.1 Warp+ buff 1000GB - Việt Nam](https://ootech.ga/threads/bot-get-1tb-1000gb-warp-cloudflare-data-2022.2217/)
-  - [Post gốc](https://www.facebook.com/groups/yamcommunity/permalink/5666471720082273/)
+  > [Post gốc](https://www.facebook.com/groups/yamcommunity/permalink/5666471720082273/)
 
 - [Google Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks)
 
 - [Google Colab OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)
-  - [Source Github](https://github.com/biplobsd/OneClickRun)
+  > [Source Github](https://github.com/biplobsd/OneClickRun)
 
 ---
 
@@ -187,16 +188,14 @@ Anime:
 
 ## App xem TV:
 
-- MonsterTV:
-  - [Trang chủ](https://xemtivi.xyz/)
-  - [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/monstertv-mobile-2.2.apk)
+- [MonsterTV](https://xemtivi.xyz/):
+  > [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/monstertv-mobile-2.2.apk)
 
 - SportsTV:
-  - [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/SportsTV_3.8.1.apk)
+  > [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/SportsTV_3.8.1.apk)
 
-- BeeTV:
-  - [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/beetv_release_minsdk24_v1.3.apk)
-  - Bên trang [ApkMody](https://apkmody.io/apps/beetv)
+- [BeeTV](https://apkmody.io/apps/beetv):
+  > [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/beetv_release_minsdk24_v1.3.apk)
 
 ## App để xem IPTV:
 
@@ -274,13 +273,13 @@ http://hqth.me/jav
 # YOUTUBE MOD
 
 - [Original Vanced Manager](https://github.com/Norikiru/VancedInstall)
-> Đã qua mod để tải được
+  > Đã qua mod để tải được
 
 - [Original Vanced APK Archive](https://github.com/Norikiru/VancedAPKs)
 
 - [Revanced](https://revanced.app/)
   - [Telegram Channel Unofficial](https://t.me/ReVancedTeam1)
-> Hiện tại Revanced hơi non nên đừng dùng
+  > Hiện tại Revanced hơi non nên đừng dùng
 
 - [Vanced Extended - Vanced Manager](https://github.com/inotia00/VancedManager_v2)
   - [Telegram Channel](https://t.me/vanced_mod_archive)
@@ -349,7 +348,7 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 
 # TẠO SHARED DRIVE FREE
 
-## Nơi uy tín để tạo, không lo die sớm (vẫn sẽ die vì free thôi :v)
+## Nơi uy tín để tạo, không lo die sớm __(vẫn sẽ die vì free thôi :v)__
 
 - [td.msgsuite.workers.dev](https://td.msgsuite.workers.dev/)
   - [Source Github](https://github.com/MsGsuite/Shared-Drives-Creator-Website)
@@ -417,7 +416,7 @@ http://doh.tiar.app
 ## Filter ad-block
 
 - [ABPVN](https://abpvn.com/get)
-> filter vip nè: `https://abpvn.com/vip/admin.txt`
+  > filter vip nè: `https://abpvn.com/vip/admin.txt`
 
 - [HostVN - ngoại lệ tí :P](https://github.com/bigdargon/hostsVN)
 
@@ -433,6 +432,6 @@ http://doh.tiar.app
 - [Linux VPS free](https://killercoda.com/thuonghaideveloper2711)
 
 - [MacOSX on Broswer](https://replit.com/@UniqueOstrich18/MacOSX?lite=1&outputonly=1)
-> Password: `password`
+  > Password: `password`
 
 - [VPS Windows - Microsoft Sanbox](https://github.com/kmille36/Windows-11-VPS)
