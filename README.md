@@ -14,7 +14,11 @@
 - Adobe App sưu tầm:
   - [Adobe 2022](https://docs.google.com/spreadsheets/d/1niE7GXhFp4phCIuXojIY4mTriyRcOb05xQheH2SkNRk/htmlview)
   - [Của da.tuu.1810](https://docs.google.com/document/d/1eGe5MAWn-_YypoJSgopnyJGaCdzjKlqlirRCtySGsak/edit)
-
+  - [Trọn bộ Photoshop](https://drive.google.com/drive/u/0/folders/1I-Wvp_x4nBA294mDzjyb8PS6SnH8DrV_)
+  - [Mấy thứ linh tinh cho Photoshop](https://drive.google.com/drive/u/0/folders/1mcBf9uiGv0G951emv1lTx0yw50N7GLRF)
+  - [Luts Evanto Free GFXVIET.NET](https://drive.google.com/drive/u/0/folders/1L1-XCpM9SrT27JTga6-jdZM4843cpM1i)
+    > Backup Link [Ấn dô đây](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/lust-envanto-free-gfxviet.net)
+    
 - Ative Windows / Office tools:
   - [Active AIO tools v3.1.3](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Activate%20AIO%20Tools%20v3.1.3_pass%201234.rar)
   - [Mas 1.4](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/MAS_1.4_Password_1234.7z)
@@ -34,6 +38,7 @@
 
 # LINK TÀI LIỆU CHÔM
 
+## Phim
 - [Tổng hợp phim Conan Onedrive](https://t.ly/ymH1)
 
 - [Tài liệu của Khánh](https://pitvn-my.sharepoint.com/:f:/g/personal/giakhanh_pitvn_onmicrosoft_com/Ei7jAqH3oDdCp7hLqSxPrm0BgGGANoKInO1n8_t6CNp0pQ?e=xPoqkC)
@@ -42,11 +47,27 @@
   - [Post gốc](https://www.facebook.com/groups/maybewatchmovie/permalink/1126397304633546/)
   - [Backup link](https://github.com/KevinNitroG/Public-Stuff/blob/main/Youtube%20Playlist%20Films.md)
 
+- [Voz TRUYỆN Doraemon](https://docs.google.com/spreadsheets/d/1qV9RD_DOCLrlqcoaPm2sENnL9DEXHt2i_t87v0OBfGg/edit#gid=0) - Update liên tục __(hoặc không :v)__
+
+## Góc học tập:
+
+- [Khoá học tổng hợp](https://docs.google.com/spreadsheets/d/14tOY5Nrm9wUDywpW3l0Q4ihAHGZcUL0xwUDt8JnDE4w/htmlview) - Gia Khánh
+  > [Post gốc](https://www.facebook.com/groups/pitvn2022/permalink/3680655898827971/)
+
+- [Tài liệu học ngoại ngữ](https://drive.google.com/drive/u/0/folders/1Qd1OotqV3sJsgoI5T5tTz0_Qs8-b2DzU)
+  > Tiếng Anh, Hàn, Pháp, Trung, Ý
+
 - [Tài liệu tổng hợp](https://docs.google.com/document/d/1ET3IkLGa0mXl_o96ZgxxevBNfs96hVmh/edit?usp=drivesdk&ouid=100653803810411128617&rtpof=true&sd=true)
+  > Có code, design, ngoại ngữ, tổng hợp bla bla nhiều 😵‍💫😵‍💫
+  
+- [Khoá học Premiere Pro 2](https://drive.google.com/drive/u/0/folders/1j3qgMozhMI8-_xBzmMtwUiuZ3U4yTYQB) - Của QuạHD
 
-- [Khoá học tổng hợp - Gia Khánh](https://docs.google.com/spreadsheets/d/14tOY5Nrm9wUDywpW3l0Q4ihAHGZcUL0xwUDt8JnDE4w/htmlview)
-  - [Post gốc](https://www.facebook.com/groups/pitvn2022/permalink/3680655898827971/)
+- [Thiết kế - Dựng phim](https://drive.google.com/drive/u/0/folders/1RAvb8TXETN1xQAC7HJhTSIbkBwD6CpkG) - Quảng Phương Lil
 
+## Sách
+
+- [Album sách](https://drive.google.com/drive/u/0/folders/1nwdctr4BcRYEw-iROjaFjPjLCTOCwJKS)
+  > Cỡ 50GB, có EBook, tiểu thuyết, văn học, sách khoá học
 
 ## Tài liệu chôm trong Tele MCUDisVN ((:
 
