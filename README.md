@@ -225,7 +225,7 @@ Anime:
 
 - [Tivimate - AndroidTV](http://bom.to/tivimate)
 
-- [IPTV Pro mod - Android](https://www.minhtamvn.com/2020/08/iptv-pro-xem-tv-cho-android.html?m=1) _(Hoặc tự tra google)_
+- [IPTV Pro mod - Android](https://apkdone.com/iptv-pro-apk/download) _(Hoặc tự tra google)_
 
 - [VLC - PC](https://www.videolan.org/) _(chọn kênh trong playlist)_
 
