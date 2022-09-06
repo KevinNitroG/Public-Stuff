@@ -255,8 +255,7 @@ gg.gg/90phuttv
 ### Chỉ mạng FPT
 
 ```
-http://bit.ly/listfptudp
-http://gg.gg/FPT1TV
+Update later
 ```
 
 ### Quốc tế
@@ -290,6 +289,7 @@ bom.to/beartv
 
 http://hqth.me/bearlivetv
 http://hqth.me/coocaa
+http://playlist.vthanhtivi.pw/
 ```
 <!-- JAV
 http://hqth.me/Phu3xJav
