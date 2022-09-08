@@ -118,7 +118,7 @@
 
 ## INDEXES:
 
-### Index Ấn Độ ((:
+### Index nước ngoài:
 
 [Simple Program All Index - Bhadoo Telegram](https://t.me/SimpleProgram/2)
 
@@ -130,6 +130,10 @@
   > User:Password vào [Channel TrollRelease Telegram](https://t.me/TrollReleases) lấy
 
 - [Punjabi Movies](https://simpleprogram.eu.org/3:/)
+
+- [NoobSubs FTP 1](https://noobftp1.noobsubs.com/)
+
+- [NoobSubs FTP 2](https://noobftp2.noobsubs.com/)
 
 ### Index Việt Nam:
 
@@ -162,6 +166,8 @@ Anime:
 - [AnimeVietsub](http://animevietsub.tv/)
 
 - [Ani4u](http://ani4u.org/)
+
+- [NoobSubs](https://www.noobsubs.com/) - xem qua Index
 
 ## Website tải app mod APK
 
