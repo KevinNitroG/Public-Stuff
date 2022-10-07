@@ -472,3 +472,7 @@ http://doh.tiar.app
   > Password: `password`
 
 - [VPS Windows - Microsoft Sanbox](https://github.com/kmille36/Windows-11-VPS)
+
+```
+https://www.icloud.com/shortcuts/e0683d6503244a2286b7b45ceddd631a?fbclid=IwAR3elF5g7nhj41meCAjJK4IRHLwXyrIXM_k99YKzrkvehnNQYCbwMpK2fe4
+```
