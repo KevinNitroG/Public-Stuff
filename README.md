@@ -235,16 +235,29 @@ Anime:
 
 - [VLC - PC](https://www.videolan.org/) _(chọn kênh trong playlist)_
 
-### Dùng cho mọi nhà mạng
+### Nhiều kênh ngon 🥳🥳
 
 ```
-http://gg.gg/kiptv2022
-http://repo.daivietpda.com/MyTV.m3u
-http://gg.gg/coban66
-http://gg.gg/vthanhtivii - die?
+https://sport.tbtv.us
+gg.gg/tb-sport
+https://s.id/tb-sport
+
+http://gg.gg/vthanhtivii
 http://rebrand.ly/vthanhtivii
+http://playlist.vthanhtivi.pw/
+
+http://gg.gg/coocaa
+
+bom.to/beartv
+http://hqth.me/bearlivetv
+
+http://gg.gg/kiptv2022
+
+http://gg.gg/coban66
+
 http://bit.ly/xtvlink
 http://gg.gg/cvace
+
 https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlist.m3u
 ```
 
@@ -255,17 +268,9 @@ https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlis
 ```
 http://gg.gg/vn360sport
 http://bit.ly/acebongdabest
-gg.gg/tb-sport
-https://s.id/tb-sport
-gg.gg/90phuttv
+gg.gg/90phuttv (Các bản ghi đá banh)
 https://yamcode.com/raw/a1fo0mlpke (K+)
 hqth.me/xembongda (kén app)
-```
-
-### Chỉ mạng FPT
-
-```
-Update later
 ```
 
 ### Quốc tế
@@ -278,29 +283,6 @@ https://iptv-org.github.io/iptv/index.country.m3u
 
 [Source](https://github.com/iptv-org/iptv)
 
-### Ờm...
-
-```
-http://plxh.info/fpt.m3u (old)
-https://bit.ly/fpttvudp
-http://gg.gg/cocaepg (dead)
-http://gg.gg/coocaa
-http://gg.gg/tviettivii (dead)
-```
-
-### Nhặt ở đâu đó, có vẻ tín :))
-
-```
-gg.gg/mytvbox1 
-iptvh.it/chanpro 
-gg.gg/coocaa 
-rlink.wtf/vthanhtivi 
-bom.to/beartv
-
-http://hqth.me/bearlivetv
-http://hqth.me/coocaa
-http://playlist.vthanhtivi.pw/
-```
 <!-- JAV
 http://hqth.me/Phu3xJav
 http://hqth.me/jav
