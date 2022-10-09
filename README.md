@@ -237,6 +237,8 @@ Anime:
 
 ### Nhiều kênh ngon 🥳🥳
 
+- Tham quan [Repo này](https://github.com/Hannstcott/SunshineTr) đi, khổng lồ vãi. Xin cảm ơn chủ repo nhé 🥰🥰
+
 ```
 https://sport.tbtv.us
 gg.gg/tb-sport
