@@ -237,8 +237,12 @@ Anime:
 
 ### Nhiều kênh ngon 🥳🥳
 
-- Tham quan [Repo này](https://github.com/Hannstcott/SunshineTr) đi, khổng lồ vãi. Xin cảm ơn chủ repo nhé 🥰🥰
+- [SunShineTV](https://github.com/Hannstcott/SunshineTr)
+  > Check [Chủ repo](https://github.com/Hannstcott?tab=stars)
 
+- [The IPTV repo](https://github.com/the-iptv)
+
+- [Huybuonvp](https://github.com/huybuonvp)
 ```
 https://sport.tbtv.us
 gg.gg/tb-sport
@@ -266,8 +270,6 @@ https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlis
 [Source Chungmaster](https://github.com/chungmaster/chungmaster.github.io)
 
 ### Đá banh
-
-- [KPlus](https://github.com/the-iptv/kplus)
 
 ```
 http://gg.gg/vn360sport
