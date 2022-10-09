@@ -271,8 +271,11 @@ https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlis
 http://gg.gg/vn360sport
 http://bit.ly/acebongdabest
 gg.gg/90phuttv (Các bản ghi đá banh)
-https://yamcode.com/raw/a1fo0mlpke (K+)
 hqth.me/xembongda (kén app)
+
+K+
+https://github.com/huybuonvp/HuyIPTV2/raw/main/IPTV2.m3u
+https://yamcode.com/raw/a1fo0mlpke
 ```
 
 ### Quốc tế
