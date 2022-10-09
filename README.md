@@ -278,6 +278,12 @@ https://github.com/huybuonvp/HuyIPTV2/raw/main/IPTV2.m3u
 https://yamcode.com/raw/a1fo0mlpke
 ```
 
+### Phim
+
+```
+https://github.com/huybuonvp/IPTV/blob/main/Huy.m3u?raw=true
+```
+
 ### Quốc tế
 
 ```
