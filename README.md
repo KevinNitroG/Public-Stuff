@@ -267,6 +267,8 @@ https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlis
 
 ### Đá banh
 
+- [KPlus](https://github.com/the-iptv/kplus)
+
 ```
 http://gg.gg/vn360sport
 http://bit.ly/acebongdabest
