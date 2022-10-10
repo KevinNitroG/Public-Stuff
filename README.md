@@ -280,6 +280,7 @@ hqth.me/xembongda (kén app)
 K+
 https://github.com/huybuonvp/HuyIPTV2/raw/main/IPTV2.m3u
 https://yamcode.com/raw/a1fo0mlpke
+hqth.me/xembongda
 ```
 
 ### Phim
