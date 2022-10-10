@@ -258,6 +258,7 @@ bom.to/beartv
 http://hqth.me/bearlivetv
 
 http://gg.gg/kiptv2022
+https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u
 
 http://gg.gg/coban66
 
