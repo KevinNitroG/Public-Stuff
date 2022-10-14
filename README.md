@@ -265,6 +265,8 @@ http://gg.gg/coban66
 http://bit.ly/xtvlink
 http://gg.gg/cvace
 
+http://bit.ly/iptvmytvlist (VNPT)
+
 https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlist.m3u
 ```
 
