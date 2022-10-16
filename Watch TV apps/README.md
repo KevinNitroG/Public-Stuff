@@ -2,9 +2,11 @@ Tổng hợp các cách xem miễn phí Ngoại hạng anh và các giải bóng
 
 1. BeeTV (xem cách kênh K+ và các kênh TV khác hoàn toàn miễn phí)
 
-- Link tải: https://www.quangkv.com/beetv_release_minsdk24_v1.3.apk
+- Link tải bản mới nhất: https://www.mediafire.com/file/7xivh9cs284y0mx/Beetv_v1.4.apk/file
 
-- Link dự phòng: https://drive.google.com/file/d/10iyxB_1WBw_uCwwhfyHMWahpt30ZplvQ/view?usp=sharing
+- Link bản cũ: https://www.quangkv.com/beetv_release_minsdk24_v1.3.apk
+
+- Link cũ dự phòng: https://drive.google.com/file/d/10iyxB_1WBw_uCwwhfyHMWahpt30ZplvQ/view?usp=sharing
 
 2. Các list IPTV có K+ (sử dụng các app Tivimate, OTT Navigator để xem)
 
