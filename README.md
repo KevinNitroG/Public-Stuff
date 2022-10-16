@@ -153,6 +153,18 @@
 
 ## Các website xem phim tốt _(chất lượng cao)_
 
+Web lậu xem ok, cần adblock 🥴🥴:
+
+- [iTVHay](https://itvhay.org/)
+
+- [phimmoichills](https://phimmoichills.net/)
+
+- [motphim tv](https://motphimtv.info/)
+
+- [Phim Nhựa](https://phimnhua.com/)
+
+Đáng source luôn:
+
 - [MacChill](https://chilleveryday.ga/)
 
 - [Myflixer](https://myflixer.to/)
