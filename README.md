@@ -269,6 +269,10 @@ http://gg.gg/coocaa
 bom.to/beartv
 http://hqth.me/bearlivetv
 
+Hà Nội IPTV: khá ngon
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u
+Source: https://github.com/HaNoiIPTV/HaNoiIPTV.m3u
+
 http://gg.gg/kiptv2022
 https://github.com/ytpit20218/kiptv/raw/main/kiptv.m3u
 
