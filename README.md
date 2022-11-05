@@ -68,6 +68,14 @@
 
 - [Album sách](https://drive.google.com/drive/u/0/folders/1nwdctr4BcRYEw-iROjaFjPjLCTOCwJKS)
   > Cỡ 50GB, có EBook, tiểu thuyết, văn học, sách khoá học
+  
+### Những website tải tài liều lậu
+
+- Zlib [Tor](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/)
+- Scihub
+- Libgen
+- B-ok
+- Scribd
 
 ## Tài liệu chôm trong Tele MCUDisVN ((:
 
