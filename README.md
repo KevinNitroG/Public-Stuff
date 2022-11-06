@@ -71,7 +71,26 @@
   
 ### Những website tải tài liều lậu
 
-- Zlib [Tor](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/)
+- Zlib
+
+<Details>
+<summary>
+Ấn để xem thêm
+</summary>
+
+  - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/
+
+    > bản sao củaz-library, “send to” -> send to email for download
+
+  - http://2urmf2mk2dhmz4km522u4yfy2ynbzkbejf2cvmpcbzhpffvcuksrz6ad.onion/
+
+    > Tổng cộng có 24TB, chia nhỏ mỗi File 100Mb
+
+  - http://articles24t2d47​kb6rbabobokvrnymh​2smkleosntcu6qxou6sxewyd.onion
+
+  - http://bookszlib​b74ugqojhzhg​2a63w5i2atv5bqarul​gczawnbmsb6s6qead.onion
+</Details>
+
 - Scihub
 - Libgen
 - B-ok
