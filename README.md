@@ -71,7 +71,7 @@
   
 ### Những website tải tài liều lậu
 
-- Zlib
+1. **Z-lib**
 
 <Details>
 <summary>
@@ -91,10 +91,24 @@
   - http://bookszlib​b74ugqojhzhg​2a63w5i2atv5bqarul​gczawnbmsb6s6qead.onion
 </Details>
 
-- Scihub
-- Libgen
-- B-ok
-- Scribd
+2. **LibGen**:
+- https://libgen.rs/
+- https://libgen.is/
+- https://libgen.st/
+3. **Sci-hub**: https://sci-hub.se/ 
+> Đây là web để tìm các bài báo khoa học
+4. **Research Gate**: https://www.researchgate.net/
+5. **Academia**: https://www.academia.edu/
+6. **Scribd**: https://www.scribd.com/
+7. B-ok //:?
+
+#### Một số nguồn khác
+
+1. **Internet Archive**: https://archive.org/details/books 
+2. **PDF Drive**: https://www.pdfdrive.com/
+3. **AAAAARG**: https://aaaaarg.fail/
+4. **Memory of the World**: https://www.memoryoftheworld.org/
+5. **Mobilism**: https://forum.mobilism.me/
 
 ## Tài liệu chôm trong Tele MCUDisVN ((:
 
