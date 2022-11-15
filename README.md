@@ -23,6 +23,8 @@
   - [Active AIO tools v3.1.3](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Activate%20AIO%20Tools%20v3.1.3_pass%201234.rar)
   - [Mas 1.4](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/MAS_1.4_Password_1234.7z)
   > Thấy `Mas` dùng ô kê hơn. Pass giải nén là `1234`
+  - [Mas Official](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/1.7)
+  > Chuẩn cơm mẹ nấu rất ngon
 
 - Tool cài **Microsoft Office**:
   - [Office Tool Plus](https://otp.landian.vip/)
