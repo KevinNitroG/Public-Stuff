@@ -279,7 +279,7 @@ Anime:
 - SportsTV:
   > [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/SportsTV_3.8.1.apk)
 
-- [BeeTV](https://apkmody.io/apps/beetv):
+- [BeeTV](https://m.facebook.com/groups/kodiviet/permalink/1421220691735052/?mibextid=Nif5oz):
   > [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/beetv_release_minsdk24_v1.3.apk)
 
 ## App để xem IPTV:
