@@ -34,6 +34,12 @@ pm uninstall –k –user 0 <packagename>
 adb shell cmd package install-existing <packagename>
 ```
 
+- Install APKs
+
+```
+adb install-multiple <apk1> <apk2>...
+```
+
 ## Doze Android command
 
 - Buttery powered state
