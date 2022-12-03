@@ -18,7 +18,9 @@ adb shell pm disable-user --user 0 <packagename>
 
 - Enable app
 
-```adb shell pm enable --user 0 <packagename>
+```
+adb shell pm enable --user 0 <packagename>
+```
 
 - Uninstall app
 
@@ -30,3 +32,4 @@ pm uninstall –k –user 0 <packagename>
 
 ```
 adb shell cmd package install-existing <packagename>
+```
