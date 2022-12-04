@@ -281,6 +281,7 @@ Anime:
 
 - [BeeTV](https://m.facebook.com/groups/kodiviet/permalink/1421220691735052/?mibextid=Nif5oz):
   > [Bản lưu trữ](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/beetv_release_minsdk24_v1.3.apk)
+  > [Source lưu trữ của Lambass](https://www.mediafire.com/folder/ict9vrbopj3ph/BEETV-FREE)
 
 ## App để xem IPTV:
 
