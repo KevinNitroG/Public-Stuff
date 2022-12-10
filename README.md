@@ -291,6 +291,8 @@ Anime:
 
 - [VLC - PC](https://www.videolan.org/) _(chọn kênh trong playlist)_
 
+- Xem trực tiếp bằng [WEB Broswer](https://iptvnator.vercel.app/)
+
 ### Nhiều kênh ngon 🥳🥳
 
 - [SunShineTV](https://github.com/Hannstcott/SunshineTr)
