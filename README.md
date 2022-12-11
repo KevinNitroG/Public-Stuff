@@ -536,7 +536,9 @@ http://doh.tiar.app
 
 - [VPS Windows - Microsoft Sanbox](https://github.com/kmille36/Windows-11-VPS)
 
-# APPLE THIRD PARTY APPSTORE
+# DÀNH CHO IPHONE - APPLE
+
+## Cửa hàng bên thứ 3
 
 - [TopStore Vip](https://topstorevipapp.com/TopStore.mobileconfig)
 
@@ -553,6 +555,22 @@ http://doh.tiar.app
 
 - [IPAapps.me](https://ipa-apps.me/)
   > [Telegram Channel](https://t.me/ipaApps1)
+
+## Repo Cydia
+
+- [Thủ thuật Jailbreak](https://repo.thuthuatjb.com/)
+
+- [Kênh táo](https://repo.kenhtao.net/)
+
+- [IPG's Cydia Repo](http://cydia.invoxiplaygames.uk/)
+
+- [Momentum-Dev Repo](http:/repo.mtmdev.org/)
+
+- [Opa334's Repo](https://opa334.github.io/)
+
+- [Zebra](https://getzbra.com/repo/)
+
+- [Karen Repo](http://cydia.angelxwind.net/)
 
 ```
 https://www.icloud.com/shortcuts/e0683d6503244a2286b7b45ceddd631a?fbclid=IwAR3elF5g7nhj41meCAjJK4IRHLwXyrIXM_k99YKzrkvehnNQYCbwMpK2fe4
