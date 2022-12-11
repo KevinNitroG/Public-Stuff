@@ -536,6 +536,21 @@ http://doh.tiar.app
 
 - [VPS Windows - Microsoft Sanbox](https://github.com/kmille36/Windows-11-VPS)
 
+# APPLE THIRD PARTY APPSTORE
+
+- [TopStore Vip](https://topstorevipapp.com/TopStore.mobileconfig)
+
+- [Scarlet](https://usescarlet.com/)
+
+- [IPA MTCHI](https://ipa.mtchi.net/) - VN
+
+- [IPA Kênh Táo](https://ipa.kenhtao.net/)
+
+- [TrollStore](https://github.com/opa334/TrollStore) for IOS 14 + 15
+  [IPAs list collection](https://github.com/swaggyP36000/TrollStore-IPAs)
+
+- [Cypwn Store](https://funletu.com/circle/53253.html)
+
 ```
 https://www.icloud.com/shortcuts/e0683d6503244a2286b7b45ceddd631a?fbclid=IwAR3elF5g7nhj41meCAjJK4IRHLwXyrIXM_k99YKzrkvehnNQYCbwMpK2fe4
 ```
