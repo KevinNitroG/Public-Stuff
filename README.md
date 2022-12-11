@@ -538,6 +538,8 @@ http://doh.tiar.app
 
 # DÀNH CHO IPHONE - APPLE
 
+- Lấy chứng chỉ free [tại đây](https://t.me/AppleP12)
+
 ## Cửa hàng bên thứ 3
 
 - [TopStore Vip](https://topstorevipapp.com/TopStore.mobileconfig)
