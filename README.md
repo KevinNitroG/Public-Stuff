@@ -547,9 +547,12 @@ http://doh.tiar.app
 - [IPA Kênh Táo](https://ipa.kenhtao.net/)
 
 - [TrollStore](https://github.com/opa334/TrollStore) for IOS 14 + 15
-  [IPAs list collection](https://github.com/swaggyP36000/TrollStore-IPAs)
+  > [IPAs list collection](https://github.com/swaggyP36000/TrollStore-IPAs)
 
 - [Cypwn Store](https://funletu.com/circle/53253.html)
+
+- [IPAapps.me](https://ipa-apps.me/)
+  > [Telegram Channel](https://t.me/ipaApps1)
 
 ```
 https://www.icloud.com/shortcuts/e0683d6503244a2286b7b45ceddd631a?fbclid=IwAR3elF5g7nhj41meCAjJK4IRHLwXyrIXM_k99YKzrkvehnNQYCbwMpK2fe4
