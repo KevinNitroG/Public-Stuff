@@ -505,6 +505,9 @@ dns.abpvn.com
 ```
 234989.dns.nextdns.io
 6963a7.dns.nextdns.io
+fd88ba.dns.nextdns.io
+
+Profile cho IOS: https://tinyurl.com/2ksggatn
 ```
 
 ### Tiar (Sing)
