@@ -525,6 +525,9 @@ http://doh.tiar.app
 
 - [OISD](https://oisd.nl/downloads)
 
+- [Adblock qua DNS](https://www.mediafire.com/file/3adu1vh96rcb6st) cho IOS
+  > [Source](https://t.me/lololololad/78)
+
 # NOTES
 
 - [Ý nghĩa của đuôi file](https://raw.githubusercontent.com/KevinNitroG/Public-Stuff/main/All%20File%20Extensions'%20Meaning.txt)
