@@ -1,8 +1,8 @@
 If you don' t have access to the TAB 🙄🙄
 
-You can try this PDF TAB instead:
+You can try this instead:
 
-- [PDF](https://github.com/KevinNitroG/Public-Stuff/raw/GuitarTAB/Like%20a%20Star%20-%20Youngso%20Kim/Youngso%20Kim%20-%20Like%20A%20Star%20-%20Edited%20by%20KevinNitro.pdf)
+- [PDF](https://github.com/KevinNitroG/Public-Stuff/raw/GuitarTAB/Like%20a%20Star%20-%20Youngso%20Kim/Youngso%20Kim%20-%20Like%20A%20Star%20-%20Edited%20by%20KevinNitro.pdf) 👈 __Click here to download__
 
 - [Guitarpro file](https://github.com/KevinNitroG/Public-Stuff/raw/GuitarTAB/Like%20a%20Star%20-%20Youngso%20Kim/Youngso%20Kim%20-%20Like%20A%20Star.gp)
 
