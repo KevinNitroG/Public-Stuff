@@ -533,6 +533,8 @@ http://doh.tiar.app
 - [https://myxxfm.com/dns](Myxxfm adblock) - AdGuard profile cho IOS
   > [Source](https://github.com/MYXXdev/myxxdev.github.io)
 
+- Chặn quảng cáo bằng host [Some One Who Cares](https://someonewhocares.org/hosts/)
+
 # NOTES
 
 - [Ý nghĩa của đuôi file](https://raw.githubusercontent.com/KevinNitroG/Public-Stuff/main/All%20File%20Extensions'%20Meaning.txt)
