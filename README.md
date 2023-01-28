@@ -330,6 +330,9 @@ http://cvacetv.ga
 http://cvacetv.ga/world (kênh nước ngoài)
 
 http://bit.ly/iptvmytvlist (VNPT)
+https://pastebin.com/raw/1HzH9Axa (VNPT)
+
+http://hqth.me/Xjjeq (Phim)
 
 https://raw.githubusercontent.com/chungmaster/chungmaster.github.io/main/playlist.m3u
 ```
