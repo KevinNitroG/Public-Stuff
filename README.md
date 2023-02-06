@@ -462,6 +462,9 @@ Mạng **FPT** thì dùng `VPN` hoặc đổi `DNS`
 - [td.hashhackers.win](https://td.hashhackers.win/)
   > [Source Github](https://github.com/devillD/Shared-Drive-Creator)
 
+- [Shinobi](https://drive.shinobiprojects.cf/)
+  > [Source](https://t.me/ShiNobiCloud/135)
+
 ## Một mớ chôm trên mạng
 ```
 https://td.hackgence.com
