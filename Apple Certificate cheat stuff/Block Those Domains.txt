@@ -1,0 +1,12 @@
+||ppq.apple.com^
+||axm-app.apple.com^
+||ocsp.apple.com^
+||ocsp2.apple.com^
+||crl.apple.com^
+||certs.apple.com^
+||appattest.apple.com^
+||vpp.itunes.apple.com^
+||valid.apple.com^
+||entrust.net^
+||digicert.cn^
+||digicert.com^
