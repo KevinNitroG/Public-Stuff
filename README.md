@@ -600,3 +600,7 @@ http://doh.tiar.app
 ```
 https://www.icloud.com/shortcuts/e0683d6503244a2286b7b45ceddd631a?fbclid=IwAR3elF5g7nhj41meCAjJK4IRHLwXyrIXM_k99YKzrkvehnNQYCbwMpK2fe4
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KevinNitroG/Public-Stuff&type=Timeline)](https://star-history.com/#KevinNitroG/Public-Stuff&Timeline)
