@@ -18,7 +18,8 @@
   - [Mấy thứ linh tinh cho Photoshop](https://drive.google.com/drive/u/0/folders/1mcBf9uiGv0G951emv1lTx0yw50N7GLRF)
   - [Luts Evanto Free GFXVIET.NET](https://drive.google.com/drive/u/0/folders/1L1-XCpM9SrT27JTga6-jdZM4843cpM1i)
     > Backup Link [Ấn dô đây](https://github.com/KevinNitroG/Public-Archive-Files/releases/tag/lust-envanto-free-gfxviet.net)
-    
+  - [Tool gỡ Creative Cloud](https://helpx.adobe.com/creative-cloud/help/uninstall-creative-cloud-desktop-app.html#uninstall_windows)
+  
 - Ative Windows / Office tools:
   - [Active AIO tools v3.1.3](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/Activate%20AIO%20Tools%20v3.1.3_pass%201234.rar)
   - [Mas 1.4](https://github.com/KevinNitroG/Public-Stuff/raw/main/Active_Windows_Office_Tools/MAS_1.4_Password_1234.7z)
