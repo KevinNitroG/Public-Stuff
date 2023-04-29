@@ -537,7 +537,7 @@ http://doh.tiar.app
 - [Adblock qua DNS](https://www.mediafire.com/file/3adu1vh96rcb6st) cho IOS
   > [Source](https://t.me/lololololad/78)
 
-- [https://myxxfm.com/dns](Myxxfm adblock) - AdGuard profile cho IOS
+- [Myxxfm adblock](https://myxxfm.com/dns) - AdGuard profile cho IOS
   > [Source](https://github.com/MYXXdev/myxxdev.github.io)
 
 - Chặn quảng cáo bằng host [Some One Who Cares](https://someonewhocares.org/hosts/)
