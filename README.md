@@ -213,6 +213,10 @@ Web lậu xem ok, cần adblock 🥴🥴:
 
 - [Myflixer](https://myflixer.to/)
 
+- [LokLok](https://loklok.com/) _Có app_
+
+- [Popcorn Time](https://popcorntimeonline.xyz) _Domain hay bị thay đổi_
+
 - [HDO App](https://hdo.app/) _Này là app, không phải web. Xem phim tạm, khá._
 
 Anime:
