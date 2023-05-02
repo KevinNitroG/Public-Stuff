@@ -252,6 +252,16 @@ Anime:
 
 - [LRePack](https://lrepacks.net/)
 
+## Website host / deploy code
+
+- [Netlify](https://www.netlify.com/)
+- [Firebaseapp](https://firebase.google.com/products/hosting)
+- [Koyeb](https://www.koyeb.com/)
+- [Railway](https://railway.app/)
+- [Okteto](https://www.okteto.com/)
+- [replit](https://replit.com/)
+- [vercel](https://vercel.com/)
+
 ---
 
 # TOOLS CHEAT HACK
