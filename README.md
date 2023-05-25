@@ -219,6 +219,10 @@ Web lậu xem ok, cần adblock 🥴🥴:
 
 - [HDO App](https://hdo.app/) _Này là app, không phải web. Xem phim tạm, khá._
 
+- [HD Today](https://hdtoday.ru/home)
+
+- [TinyZoneTV](https://tinyzonetv.to/home)
+
 Anime:
 
 - [AnimixPlay](https://animixplay.to/)
