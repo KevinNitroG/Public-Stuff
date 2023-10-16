@@ -555,6 +555,11 @@ http://doh.tiar.app
 - [Adblock qua DNS](https://www.mediafire.com/file/3adu1vh96rcb6st) cho IOS
   > [Source](https://t.me/lololololad/78)
 
+
+- Adblock v3.0 HaPhung
+- [Link1](https://www.mediafire.com/file/sgl1qowb2u0eukz) [Link 2](https://www.fshare.vn/file/F6BTXXLVCTTD)
+  > [Source](https://www.facebook.com/groups/kenhtao/permalink/1326244931342353/?mibextid=Nif5oz)
+
 - [Myxxfm adblock](https://myxxfm.com/dns) - AdGuard profile cho IOS
   > [Source](https://github.com/MYXXdev/myxxdev.github.io)
 
